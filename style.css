@@ -164,7 +164,7 @@ p{
     margin: 20px auto;
     text-align: justify;
 }
-.about div{outline: 2px solid blue;
+.about div{
     width:280px;
     height: auto;
     display: inline-block;
